@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I have modified my username to from <b>lightningcoder07<b> to <b>glianx<b>.
+I have modified my username to from <b>lightningcoder07</b> to <b>glianx</b>.
 
 Visit https://github.com/glianx for my new github profile.
 
